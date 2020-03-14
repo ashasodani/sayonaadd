@@ -1,0 +1,366 @@
+/** managed visit css start**/
+.managed_table .Client_Management.m-header-search__wrapper{
+    width: auto;
+    margin-top: 11px;
+}
+
+.managed_table .Client_Management.m-header-search__wrapper .search {
+    margin-right: 10px;
+    border-radius: .25rem;
+}
+.managed_table.client_manegment_Table .m-widget11 .table thead tr>th{
+    padding-left: 0;
+}
+.managed_table.client_manegment_Table .m-widget11 .table thead tr th:first-child{
+    padding-left: 25px;
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11_client_id{
+    width: 6.9%;
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11__Client_Name{
+    width: 10.8%;
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11__Contact_Number{
+    width: 11.5%;
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11__name{
+    width: 10.2%;
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11__ct_contact{
+    width: 10.9%;
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11__service{
+    width: 8.9%;
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11__visit-date{
+        width: 9.9%;
+    position: relative;
+    
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11__time{
+    width: 8.5%;
+    position: relative;
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11__visit-status{
+    width: 8%;
+}
+.managed_table.client_manegment_Table .m-widget11 .m-widget11__action{
+    width: 6.9%;
+}
+.managed_table .pending_btn {
+    background-color: #496ba7;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+.managed_table .progress_btn{
+    background-color: #57bb59;
+}
+.managed_table .completed_btn{
+    background-color: #ecac48;
+}
+/*.managed_table .table_arrow{
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+}*/
+/** managed visit css end**/
+
+/** managed visit view css start**/
+.managed_visit_detail.m-portlet .m-portlet__head{
+    padding: 0 25px;
+}
+.managed_visit_detail.client_detail_style .btn{
+    margin: 9px 0 7px;
+}
+.col-box-1 {
+    flex: 0 0 13%;
+    max-width: 13%;
+    padding: 0px 15px;
+}
+.col-box-2 {
+    flex: 0 0 18%;
+    max-width: 18%;
+    padding: 0px 15px;
+}
+.managed_visit_detail .m-widget11.client_information {
+    display: inline-block;
+    width: 100%;
+    padding: 24px 24px 11px;
+}
+.managed_visit_detail .managed_table .form-control{
+    border: 0;
+    padding-left: 0;
+    color: #535358;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+}
+.managed_visit_detail .managed_table .form-group label{
+    font-family: 'OpenSans-Bold';
+    color: #535358;
+    font-size: 14px;
+    margin-bottom: 2px;
+    display: inline-block;
+    width: 100%;
+}
+.managed_visit_detail .managed_table .pending_btn{
+    margin-top: 12px;
+    display: inline-block;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+}
+.manage_detail_table .client_manegment_Table .m-widget11 .table tbody>tr:last-child{
+    border:0;
+}
+.manage_detail_table .managed_table.client_manegment_Table .m-widget11 .m-widget11_client_id {
+    width: 60px;
+}
+.manage_detail_table .managed_table.client_manegment_Table .m-widget11 .m-widget11_Service_Group {
+    width: 23.27%;
+}
+.manage_detail_table .managed_table.client_manegment_Table .m-widget11 .m-widget11_Service_Name {
+    width: 12.9%;
+}
+.manage_detail_table .managed_table.client_manegment_Table .m-widget11 .m-widget11_task {
+    width: 9.3%;
+}
+.manage_detail_table .managed_table.client_manegment_Table .m-widget11 .m-widget11_task_description {
+    width: 25.9%;
+}
+.manage_detail_table .managed_table.client_manegment_Table .m-widget11 .m-widget11_Allocated_Time {
+    width: 13.9%;
+}
+.manage_detail_table .managed_table.client_manegment_Table .m-widget11 .m-widget11_Action {
+    width: 9.9%;
+}
+.manage_detail_table .table{
+    margin-bottom: 0;
+}
+/** managed visit view css end**/
+
+/** managed visit add css start**/
+
+.col-box-3{
+    flex: 0 0 17%;
+    max-width: 17%;
+    padding: 0px 15px;
+}
+.col-box-4{
+    flex: 0 0 49%;
+    max-width: 49%;
+    padding: 0px 15px;
+}
+.col-box-6 {
+    flex: 0 0 66%;
+    max-width: 66%;
+    padding: 0px 15px;
+}
+.managed_add_style.managed_visit_detail .managed_table .form-control{
+    border: 1px solid #eaecf1;
+    padding: 8.5px 15px 10.5px;
+}
+.managed_add_style.managed_visit_detail .managed_table .dropdown.form-control{
+    border:0;
+    padding:0;
+    border-color: #eaecf1;
+}
+.managed_add_style .managed_table .form-group label{
+    margin-bottom: 5px;
+    font-family: 'OpenSans-Bold';
+    color: #535358;
+    font-size: 14px;
+    display: inline-block;
+    width: 100%;
+}
+.managed_add_style .managed_table .bootstrap-select .dropdown-toggle .filter-option-inner{
+    font-weight: 400;
+    color: #535358;
+    font-size: 14px;
+}
+.managed_add_style .bootstrap-select>.dropdown-toggle:after{
+    background-image: url(../images/down_arrow_1.png);
+    width: 12px;
+    height: 8px;
+    right: 12px;
+    top:14px;
+}
+.managed_add_style .input-group .input-group-append>.input-group-text{
+    background-color: #f7f8fa;
+    border-color: #eaecf1;
+    border-left: 0;
+}
+.managed_add_style.managed_visit_detail .managed_table .date .form-control{
+    border-right: 0;
+}
+.managed_add_1 {
+    border-bottom: 1px solid #eeeff6;
+    padding: 0 0 9px;
+    margin-bottom: 20px;
+}
+.managed_add_style  textarea {
+    max-width: 502px;
+    height: 89px;
+    border: 1px solid #eaecf1;
+    resize: none;
+    padding: 7px 13px;
+    width:100%;
+}
+.managed_add_style .form-group.m-form__group.text_cls {
+    width: 68%;
+}
+.managed_add_style .select2-container{
+    width:100% !important
+}
+.managed_add_style  .m-form__actions{
+    text-align: right;
+    margin-top: 30px;
+    margin-bottom: 20px;    
+}
+.managed_add_style .col-box-4 .form-group.m-form__group{
+    display: inline-block;    
+
+}
+.managed_add_style .col-box-6 .form-group.m-form__group {
+    display: inline-block;
+    float: right;
+}
+
+.managed_add_style .mva_remove a.remove_btn{
+    margin-top: 75px;
+}
+.managed_add_style .mva_remove.tp a.remove_btn{
+    margin-top: 25px;
+}
+.managed_add_style .mva_remove {
+    display: inline-block;
+    float: right;
+}
+.managed_add_style .form-group.m-form__group .mva_add{
+    margin-top: 35px;
+}
+.managed_add_style .mva_remove a.remove_btn {
+    padding: 9px 19px;
+    background-color: #f1f3f7;
+    color: #535358;
+    border: 1px solid #eaecf1;
+    border-radius: 5px;
+    display: inline-block;
+    float: right;
+}
+.managed_add_style .auto_search_manage .bs-searchbox{
+    position: relative;
+}
+.managed_add_style .auto_search_manage .bs-searchbox:after {
+    background-image: url(../images/search_icon.png);
+    background-repeat: no-repeat;
+    height: 20px;
+    content: '';
+    width: 20px;
+    position: absolute;
+    top: 22px;
+    left: 25px;
+    margin-right: 15px;
+}
+.managed_add_style .auto_search_manage .bs-searchbox .form-control {
+    padding: 9px 30px;
+}
+
+/*Block time dropdown css*/
+
+/*.managed_add_style select.form-control.m-bootstrap-select.m_selectpicker.dropdown.select_time .dropdown-menu.show {
+    height: 150px;
+}*/
+
+.managed_add_style .form-group.m-form__group.select_time .dropdown.bootstrap-select.form-control.m-bootstrap-select.m_.show .dropdown-menu.show{
+    height: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/** managed visit add css end**/
+
+
+
+
+@media (max-width: 1900px){
+    .managed_table .Client_Management.m-header-search__wrapper {width: 72.8%;}
+}
+@media (max-width: 1800px){
+    .managed_table .Client_Management.m-header-search__wrapper {width: 76.8%;}
+}
+@media (max-width: 1714px){
+
+}
+@media (max-width: 1600px){
+
+}
+@media (max-width: 1530px){
+    .managed_table .Client_Management.m-header-search__wrapper{width:100%;} 
+}
+
+@media (max-width: 1399px){
+    .managed_add_style .managed_table .col-box-3 {flex: 0 0 50%;max-width: 50%;padding: 0px 15px;}
+    .managed_add_style .managed_table .col-box-4 {flex: 0 0 100%;max-width: 100%;padding: 0px 15px;}
+    .managed_add_style .managed_table .col-box-6 {flex: 0 0 100%;max-width: 100%;padding: 0px 15px;}
+}
+
+
+
+@media (max-width: 1366px){
+    .col-box-1, .col-box-2{flex: 0 0 20%;max-width: 20%;}
+}
+@media (max-width: 1300px){
+    .managed_table .add_new_client_btn {display: inline-block;}
+    .managed_table.m-portlet .m-portlet__head .m-portlet__head-caption{padding-bottom: 0;}
+}
+
+@media (max-width: 1199px){
+     .col-box-1, .col-box-2{flex: 0 0 33.33%;max-width: 33.33%;}
+}
+@media (max-width: 1024px){
+
+}
+@media (max-width: 991px){
+
+}
+@media (max-width: 767px){
+    .managed_table.m-portlet .m-portlet__head .m-portlet__head-caption .m-portlet__head-title .m-portlet__head-text{margin-bottom: 15px;display: inline-block;width: 100%;}
+    .managed_table .add_new_client_btn {margin-top: 25px; margin-bottom: 10px;}
+    .show_pagintion .col-sm-12{max-width: 100%; text-align: center;}
+    .dataTables_paginate.paging_simple_numbers {float: none;text-align: center;display: inline-block;margin-top: 15px;width:100%;}
+    .managed_table .Client_Management.m-header-search__wrapper .filter{padding:0;}
+    .managed_table .Client_Management.m-header-search__wrapper .search{margin-right: 0;width:100%;}
+}
+@media (max-width: 575px){
+    .managed_table .Client_Management.m-header-search__wrapper{display: inline-block !important;}
+    div#m_table_1_length {display: inline-block;width: 100%;}
+    .pagination{justify-content: center;}
+    .col-box-1, .col-box-2 {flex: 0 0 50%;max-width: 50%;}
+}
+@media (max-width: 479px){
+    .col-box-1, .col-box-2 {flex: 0 0 100%;max-width: 100%;}
+    .managed_add_style .managed_table .col-box-3 {flex: 0 0 100%;max-width: 100%;padding: 0px 15px;}
+    .managed_add_style .form-group.m-form__group.text_cls {width: 100%;}
+    .managed_add_style .mva_remove a.remove_btn {margin-top: 0px;}
+    .managed_add_style .form-group.m-form__group .mva_add {margin-top:0px;}
+    .m-content.page_contant.manage_page {padding: 15px;}
+    .m-content.page_contant.manage_page .managed_visit_detail .m-widget11.client_information{padding: 15px;}
+}
+@media (max-width: 414px){
+    .managed_table .add_new_client_btn {margin-top: 10px;}
+    .managed_visit_detail.client_detail_style .m-portlet-button{float: left;margin-top: 0;display: inline-block;}
+    .managed_visit_detail.client_detail_style .btn {margin: 0px 0 15px;}
+}

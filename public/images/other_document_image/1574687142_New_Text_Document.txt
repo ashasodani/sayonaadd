@@ -1,0 +1,49 @@
+**************************************************************
+project : Fx. Wordpress Plugin Creator WooCommerce-23137963
+**************************************************************
+developer : mayur
+worked hours : 2:30 minutes
+task : plugin setup
+
+
+**************************************************************
+project : Fx 23239507 Custom Shopify app
+**************************************************************
+developer : chintan
+worked hours : full day
+task : setting page , manage promotion page,giveaway winner history page
+
+**************************************************************
+project : Hr 3055 - Astoundz Support task
+**************************************************************
+developer : nirav
+worked hours : 15 minutes
+task : push product page changes on live site
+
+**************************************************************
+project : Hr 23131179 | Developer needed for a Shopify Retur
+**************************************************************
+developer : Nikita
+worked hours : full day
+task : Dashboard Pending Request section , Dashboard Active Returns section
+
+**************************************************************
+project : Fx - Shayona Care Services App
+**************************************************************
+developer : Saloni
+worked hours : full day
+task : Service management : service group page , Service management : services page
+
+
+developer : Asha
+worked hours : 2 hrs
+task : Admin user management
+
+**************************************************************
+project : Website Creation Design And Develop A Website
+**************************************************************
+developer : Denish
+worked hours : full day
+task : quickbook auth issue , dashboard filters for xero API
+
+ 

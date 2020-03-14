@@ -1,0 +1,544 @@
+/*popup css start*/
+.modal.dashboard_modal .modal-content .modal-header .modal-title,.dashboard_modal .col-form-label {
+    color: #535358;
+    font-family: 'OpenSans-Bold';
+    font-size: 16px;
+}
+.dashboard_modal .col-form-label {
+    font-size: 14px;
+    padding-bottom: 8px;
+}
+.dashboard_modal .bootstrap-select .dropdown-toggle .filter-option-inner{
+    color: #535358;
+    font-family:'OpenSans-Regular';
+    font-size: 14px;
+}
+.dashboard_modal .bootstrap-select>.dropdown-toggle.btn-light,.dashboard_modal .bootstrap-select>.dropdown-toggle.btn-secondary {
+    border: 1px solid #eaecf1;
+    color:#535358;
+    padding: 9.5px 12px;
+}
+.bootstrap-select.show>.dropdown-toggle.btn-light, .bootstrap-select.show>.dropdown-toggle.btn-secondary {
+    border-color: #eaecf1!important;
+}
+.dashboard_modal button.btn.btn-primary,.dashboard_modal .btn-primary:not(:disabled):not(.disabled).active,
+.dashboard_modal .btn-primary:not(:disabled):not(.disabled):active,.dashboard_modal .show>.btn-primary.dropdown-toggle {
+    background-color: #293c5e;
+    border: transparent;
+    font-family:'OpenSans-Regular';
+    font-size: 14px;
+    padding: 10.5px 13.5px;
+}
+.dashboard_modal button.btn.btn-secondary,.dashboard_modal .btn-primary:not(:disabled):not(.disabled).active,
+.dashboard_modal .btn-secondary:not(:disabled):not(.disabled):active,.dashboard_modal .show>.btn-secondary.dropdown-toggle{
+    background-color: #ffffff;
+    border-color: #eaecf1;
+    color: #293c5e;
+    font-family:'OpenSans-Regular';
+    font-size: 14px;
+    padding: 10.5px 16.5px;
+    margin: 0 10px;
+}
+.modal.dashboard_modal .modal-content .modal-header .close:before {
+    font-size: 20px;
+}
+.modal.dashboard_modal .modal-content .modal-header {
+    padding: 19px 24px 19px;
+    border-bottom: 1px solid #ebedf2;
+}
+.dashboard_modal .modal-header .close {
+    margin: 0;
+    padding: 10px 0px 0;
+}
+.modal.dashboard_modal .modal-content .modal-footer{
+    border-top: 1px solid #ebedf2;
+}
+.modal.dashboard_modal .modal-content .modal-body {
+    padding: 6px 25px;
+}
+.modal .assign_ct_modal {
+    max-width: 420px;
+}
+.modal .inactive_user_modal {
+    max-width: 334px;
+}
+.modal .inactive_user_modal .modal-content .modal-header {
+    padding: 19px 24px 7px;
+}
+.inactive-modal-title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+.inactive-modal-title-btm {
+    text-align: center;
+    font-size: 14px;
+    padding-top: 20px;
+}
+.modal-dialog .close_icon {
+    margin: auto;
+    padding-top: 46px;
+}
+.inactive_user_modal .modal-content .modal-header,.inactive_user_modal .modal-content .modal-footer {
+    border: none !important;
+}
+.inactive_user_modal .modal-content .modal-footer {
+    padding: 0 0 42px 0;
+}
+.inactive_user_btn_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+.add_amount_balance_left .form-control:focus, .add_new_admin_user .form-control:focus, .admin_new_group .form-control:focus, 
+.add_service_group .form-control:focus, .add_new_task_service .form-control:focus {
+    border-color: #eaecf1;
+}
+.add_amount_balance_right .m-radio.m-radio--brand>input:checked~span {
+    border: 1px solid #293c5e;
+}
+.add_amount_balance_right .m-radio.m-radio--brand>span:after {
+    border: solid #293c5e;
+    background: #293c5e;
+}
+.add_amount_balance_right .m-radio>span:after{
+    margin-left: -4px;
+    margin-top: -4px;
+    height: 8px;
+    width: 8px;
+}
+.date_of_birth .form-control, .form-control[readonly] {
+    border-color: #EBEDF2;
+    color: #575962;
+    border-right: 0;
+}
+.date_of_birth .input-group .input-group-append>.input-group-text, .input-group .input-group-prepend>.input-group-text{
+    background-color: transparent;
+    border-left: 0;
+}
+::placeholder{
+    color: #535358 !important;
+}
+:-ms-input-placeholder {
+    color: #535358;
+}
+::-webkit-input-placeholder {
+    color: #535358;
+}
+.admin_new_group .m-checkbox.m-checkbox--brand>input:checked~span{
+    border: 1px solid #293c5e;
+}
+.admin_new_group .m-checkbox.m-checkbox--brand>span:after{
+    border: solid #293c5e;
+}
+.admin_new_group .m-checkbox{
+    margin-bottom: 24px;
+    color: #535358;
+}
+.admin_new_group_read_edit .m-form__group.row .m-checkbox-inline, .m-form__group.row .admin_new_group_btm{
+    margin-top: 35px;
+}
+.admin_new_group_read_edit .m-radio-inline .m-radio{
+    margin-bottom: 25px;
+}
+.admin_new_group_btm .m-radio{
+    color: #535358;
+}
+.admin_new_group_btm .m-radio.m-radio--brand>input:checked~span {
+    border: 1px solid #293c5e;
+}
+.admin_new_group_btm .m-radio.m-radio--brand>span:after {
+    border: solid #293c5e;
+    background: #293c5e;
+}
+.manage_visit_blockout_time .modal-content .modal-header,.manage_visit_blockout_time .modal-content .modal-footer {
+    border: none !important;
+}
+.manage_visit_blockout_time {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+}
+ .modal .modal-content .manage_visit_blockout_time_center{
+    padding: 0 0 62px 0;
+}
+.manage_visit_blockout_time_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+.manage_visit_blockout_time .modal-content .modal-header {
+    margin-right: 0;
+    margin-left: auto;
+}
+.add_new_task_service .form-control, .form-control[readonly]{
+    resize: none;
+}
+/*popup css end*/
+
+
+/*Client Management Transaction History View Css Start*/
+
+.client_management_transaction_view .m-widget11 .table-responsive .table{
+    margin-bottom: 0px;
+    width: auto;
+}
+.client_transaction_history_view{
+    border-bottom: 1px solid #eeeff6;
+    padding: 0 25px;
+}
+ .transaction_history_view{
+    border-bottom: 0px solid #eeeff6 !important;
+  
+    padding: 0px !important;
+}
+.transaction_history_view_top{
+    padding: 12px 0 0 0;
+}
+.transaction_history_view .m-widget11_client_id{
+    width: 10.5% !important;
+}
+.transaction_history_view .m-widget11__Client_Name{
+    width: 13.2% !important;
+}
+.transaction_history_view .m-portlet__head{
+    height: 4.5rem;
+}
+.transaction_history_view .m-widget11__Contact_Number{
+    width: 2.7% !important;
+}
+.client_manegment_table .m-widget11 .table thead tr>td {
+    color: #535358;
+    padding-left: 25px;
+}
+.client_management_transaction_view .m-header-search__wrapper{
+    display: flex;
+    justify-content: flex-end;
+    width: auto;
+}
+.transaction_history_view .add_new_CT_btn{
+    padding-top: 17px;
+}
+.client_management_transaction_view .m-widget11 .table tbody>tr {
+    border-bottom: .07rem solid #ebedf2;
+}
+.transaction_history_view.m-subheader.subheader_text {
+    margin-bottom: 0px;
+}
+.transaction_history_view .add_new_CT_btn .new_Ct_btn{
+    background-color: #293c5e;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    padding: 9px 14px;
+    vertical-align: middle;
+    border-radius: 4px;
+}
+.transaction_history_view .group_info_1 {
+    width: 19%;
+}
+.transaction_history_view .table thead th{
+   padding: 20px;
+}
+.transaction_history_view .m-widget11 .table tbody>tr>td{
+    padding: 20px;
+}
+.transaction_history_view .m-portlet .m-portlet__head{
+    height: 4.6rem;
+}
+.subheader_box.user_view{
+    padding: 0px 0 12px 0;
+    margin-bottom: 0px;
+}
+
+
+
+/*Invoice Page CSS Start */
+
+
+.invoice .m-widget11 .table tbody>tr>td a.active_btn{
+    background-color: transparent;
+    color: #57bb59;
+}
+.invoice .m-widget11 .table tbody>tr>td a.active_btn_unpaid{
+    background-color: transparent;
+    color: #ff0000;
+}
+.invoice .m-widget11 .m-widget11__action{
+    width: 6.96%;
+}
+/*.invoice .m-widget11 .table tbody>tr>td a{
+    padding-left: 25px;
+}*/
+.invoice .m-widget11 .table thead tr>th{
+    font-family: 'OpenSans-Bold';
+    color: #535358;
+    font-size: 14px;
+    padding: 19px 0;
+    padding-left: 25px;
+}
+.invoice .add_new_CT_btn .new_Ct_btn{
+    background-color: #293c5e;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    padding: 9px 14px;
+    vertical-align: middle;
+    border-radius: 4px;
+}
+.invoice .m-header-search__wrapper {
+    display: inline-flex;
+    height: 100%;
+    width: 37%;
+    align-items: center;
+    padding: 0;
+    float: right;
+    justify-content: flex-end;
+
+}
+.invoice .m-header-search__wrapper .filter {
+    width: 20%;
+    border: 0;
+    display: inline-block;
+    padding: 0 10px 0 0;
+}
+.invoice .m-header-search__wrapper{
+    display: inline-flex;
+    height: 100%;
+    width: 88%;
+    align-items: center;
+    padding: 0;
+    float: right;
+    padding-top: 16px;
+}
+.invoice .m-widget11 .table tbody>tr {
+    border-bottom: .07rem solid #ebedf2;
+}
+.invoice .m-widget11__invoice_amount{
+    position: relative;
+}
+.invoice .up_arrow, .invoice .down_arrow{
+    right: 50px;
+}
+
+
+
+/*Create New Invoice Page CSS Start */
+
+
+.client_create_new_invoice {
+    border-bottom: 1px solid #eeeff6;
+    padding: 0 25px;
+}
+.create_new_invoice.m-subheader.subheader_text {
+    margin-bottom: 10px;
+}
+.create_new_invoice .m-widget11 .table tbody>tr {
+    border-bottom: .07rem solid #ebedf2;
+}
+.create_new_invoice{
+    border-bottom: 0px solid #eeeff6 !important;
+    padding: 0px !important;
+}
+.create_new_invoice .group_info_1{
+    font-family: 'OpenSans-Bold';
+    width: 16%;
+}
+.create_new_invoice .group_info_2{
+     font-family: 'OpenSans-Bold';
+     padding-left: 12px;
+}
+.create_new_invoice .group_info_2 .form-control.m-input{
+    width: 78%;
+    display: inline-block;
+}
+.create_new_invoice .group_info_2 span{
+    margin-left: 10px;
+    font-family: 'OpenSans';
+}
+.create_new_invoice .bootstrap-select>.dropdown-toggle:after {
+    content: '';
+    background-image: url(../images/down_arrow_icon.png);
+    background-repeat: no-repeat;
+    background-position: 100% 55%;
+    width: 12px;
+    height: 6px;
+    right: 10px;
+    top: 16px;
+}
+.create_new_invoice .m-widget11_checkbox {
+    width: 5%;
+}
+.create_new_invoice .m-widget11_client_date{
+    width: 20%;
+}
+.create_new_invoice .m-widget11__service_group{
+    width: 20%;
+}
+.create_new_invoice .m-widget11__no_of_service{
+    width: 15%;
+}
+.create_new_invoice .m-widget11__no_of_task{
+    width: 15%;
+}
+.create_new_invoice .m-widget11__worked_hours{
+    width: 14%;
+}
+.m-checkbox.m-checkbox--brand>span {
+    border: 1px solid #eaecf1;
+}
+.create_new_invoice .m-checkbox.m-checkbox--brand>input:checked~span{
+    border: 1px solid #293c5e;
+}
+.create_new_invoice .m-checkbox.m-checkbox--brand>span:after{
+    border: solid #293c5e;
+}
+.create_new_invoice .add_new_CT_btn .new_Ct_btn{
+    background-color: #293c5e;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    padding: 9px 14px;
+    vertical-align: middle;
+    border-radius: 4px;
+}
+.create_new_invoice .add_new_CT_btn_cancel .new_Ct_btn_cancel{
+    background-color: transparent;
+    color: #293c5e;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    padding: 9px 14px;
+    vertical-align: middle;
+    border-radius: 4px;
+    border: 1px solid #eaecf1;
+    margin: 0 8px 0 0;
+}
+.create_new_invoice .m-header-search__wrapper {
+    display: inline-flex;
+    height: 100%;
+    width: 37%;
+    align-items: center;
+    padding: 0;
+    float: right;
+    justify-content: flex-end;
+    margin-top: 23px;
+}
+.create_new_invoice .bootstrap-select .dropdown-toggle .filter-option-inner{
+    color: #535358;
+}
+.create_new_invoice .m-widget11 .table tbody>tr>td>label{
+    top: 0;
+}
+.create_new_invoice .table thead th{
+    padding: 20px 25px;
+}
+.create_new_invoice .m-widget11 .table tbody>tr>td{
+    padding: 20px 25px;
+}
+
+
+
+
+
+
+@media (max-width: 1880px){
+    .invoice .m-header-search__wrapper{width: 100%;justify-content: flex-end;}
+}
+@media (max-width: 1714px){
+    .invoice.m-header-search__wrapper{width: 100%;justify-content: flex-end;}
+}
+@media (max-width: 1530px){
+    .invoice .m-header-search__wrapper{padding-bottom: 32px; display: flex;}
+    .client_management_transaction_view .m-header-search__wrapper {justify-content: flex-end;padding-bottom: 3\0px;}
+    .create_new_invoice .group_info_1{width: 20%;}
+    .create_new_invoice .group_info_2 .form-control.m-input{width: 90%;}
+    .create_new_invoice .m-header-search__form{padding-bottom: 32px;}
+    .invoice .m-header-search__wrapper{padding-bottom: 0px;}
+
+}
+@media(max-width: 1366px){
+    .client_management_transaction_view .m-header-search__wrapper{width: auto;}
+    .invoice .m-header-search__wrapper{padding-bottom: 32px;}
+    .create_new_invoice .group_info_1{width: 50%;}
+    .create_new_invoice .group_info_2{width: 50%; padding-top: 0px;}
+    .invoice .m-header-search__wrapper{padding-bottom: 0px;}
+    .create_new_invoice .m-header-search__wrapper{width: auto;}
+}
+@media(max-width:1199px){
+   .transaction_history_view .m-widget11_client_id{width: 16% !important;}
+   .transaction_history_view .m-widget11__Client_Name{width: 12% !important;}
+   .transaction_history_view .m-widget11__Contact_Number{width: 5% !important;}
+   .transaction_history_view .group_info_1 {width: 25%; padding-bottom: 10px;}
+   .client_management_transaction_view .m-header-search__wrapper{width: 100%;}
+   .client_management_transaction_view .m-header-search__wrapper {padding-bottom: 0px;}
+   .invoice .m-header-search__wrapper{padding-bottom: 0px;}
+   .invoice .m-header-search__wrapper .filter{width: 33%;}
+   .create_new_invoice .m-header-search__form{width: 100%; padding-bottom: 0px;}
+
+}
+@media (max-width:1024px) {
+
+}
+@media (max-width: 991px){
+    .client_management_transaction_view .m-header-search__wrapper{width: auto;}
+}
+@media (max-width: 876px){
+    
+}
+@media (max-width: 767px){
+    .add_new_admin_user .col-sm-12{max-width: 100%;}
+    .client_management_transaction_view .m-header-search__form{margin-bottom: 0px !important; }
+    .transaction_history_view{overflow: hidden; overflow-x: scroll;}
+    .transaction_history_view .group_info_1{width: 33%;}
+    .create_new_invoice .m-header-search__form{height: 60px; display: block;} 
+}
+@media(max-width: 575px){
+    .add_new_admin_user .col-sm-12{max-width: 100%; display: block;}
+    .modal .assign_ct_modal {max-width: 100%;}
+    .modal .inactive_user_modal{max-width: 100%;}
+    .modal{padding-left: 10px; padding-right: 10px;}
+    .transaction_history_view .table{width: 800px;}
+    .transaction_history_view .m-widget11_client_id{width: 25% !important;}
+    .transaction_history_view .add_new_CT_btn{padding-top: 0px;}
+    .transaction_history_view .group_info_1{width: 50%;}
+    .Client_Management.m-header-search__wrapper{display: flex !important;}
+    .add_new_task_service .col-sm-12{display: inline-block;}
+    .invoice .m-header-search__wrapper{display: block;}
+    .invoice .m-header-search__wrapper .filter{display: block;width: 100%; margin-bottom: 15px;}
+    .invoice .m-header-search__wrapper .filter{width: 100%;}
+    .invoice .m-header-search__form{height: 165 px;}
+    .invoice .add_new_CT_btn{display: block;width: 100%;margin: 18px 0;}
+    .invoice .m-portlet__head .m-portlet__head-caption{display: inline-block; padding: 10px 0;}
+    .create_new_invoice .m-header-search__form{height: 100px;}
+    .create_new_invoice .group_info_1{width: 100%;}
+    .create_new_invoice .group_info_2{padding-left: 0px; width: 100%;}
+    .create_new_invoice .group_info_2 .form-control.m-input{width: 92%;}
+    .create_new_invoice .m-header-search__wrapper{width: 100%; justify-content: flex-start;}
+    .client_management_transaction_view .m-header-search__wrapper{width: 100%; display: block; padding-top: 6px; padding-bottom: 20px;}
+
+}
+@media(max-width: 475px){
+    .modal{padding-left: 10px; padding-right: 10px;}
+    .inactive-modal-title{font-size: 21px;}
+    .transaction_history_view .group_info_1{width: 100%;}
+    .create_new_invoice .m-header-search__wrapper{display: block;}
+    .create_new_invoice .add_new_CT_btn_cancel{padding-bottom: 25px;}
+}
+@media (max-width: 414px){
+
+}
+
+@media (max-width: 375px){
+    .transaction_history_view .group_info_1{width: 100%;}
+}
+
+@media (max-width: 320px){
+
+}
+

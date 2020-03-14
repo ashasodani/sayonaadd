@@ -1,0 +1,349 @@
+
+@media (max-width: 1880px){
+    .table-responsive {overflow: hidden;overflow-x: scroll;display: block;}
+    .table-responsive td, .table-responsive th { white-space: nowrap;} 
+    .dashboard_table .m-widget11 .table thead tr>td{padding: 19px 0px;}
+    .up_arrow{top: 12px; right: 86px;}
+    .down_arrow {bottom: 15px; right: 86px;}
+    .m-header-search__wrapper{width:37%;}
+    .Client_Management.m-header-search__wrapper { width: 100%;justify-content: flex-end;}
+    .CT__Management .filter{width: 38%;}
+    .CT_Management.m-header-search__wrapper { width: 59%;}
+    .edit_client_detail .box-content-1 { width: 7%;}
+    .edit_client_detail .box-content-4 {width: 23%;margin-right: 10px;}
+    .edit_client_detail .box-content-2 { width: 17%;}
+    .client_complete .d-down_arrow {top: 4px;right: 20px !important;}
+}
+
+
+
+@media (max-width: 1716px){
+    .Client_Management.m-header-search__wrapper { width: 100%;justify-content: flex-end;}
+    .Client_Management.m-header-search__wrapper .filter{width: 211px;}
+    .table { width: 1600px;}
+    .CT_Management.m-header-search__wrapper{width: 76%;}
+    .edit_client_detail .box-content-2 { width: 17%;}
+    .edit_client_detail .box-content-4 { width: 23%; margin-right: 10px;}
+    .hca_management_view_allocate_client .box-content-12.box-content { padding-top: 0px !important; width: 271px;padding-bottom: 0px !important;}
+    .hca_management_view_allocate_client .box-content-2.box-content { width: 260px;}
+    .hca_management_view_allocate_client .box-content-3.box-content { width: 187px;}
+    .hca_management_view_allocate_client .box-content-9.box-content { width: 244px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-10.box-content { width: 218px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-13.box-content { width: 14%; padding: 0;}
+    .hca_management_view_allocate_client .box-content-14.box-content { width: 35%; padding-top: 0px;}
+}
+
+@media (max-width: 1600px){
+    .top_box .box_main_content{width: 33.33% ! important;border-right: 20px solid #ffffff;}
+    .up_arrow{top: 12px; right: 23px;}
+    .down_arrow {bottom: 15px;right: 23px;}
+    .m-header-search__wrapper{width:43%;}
+    .up_arrow{top: 12px; right: 93px;}
+    .down_arrow {bottom: 15px; right: 93px;}
+    .CT__Management .m-header-search__form{width: 67%;}
+    .CT_Management.m-header-search__wrapper{width: 100%;}
+    /*    .box-content-1{width: 9%;}.box-content-8{width: 15%;}*/
+    .group_info_3 { padding-top: 20px;}
+    .edit_client_detail .box-content-2 { width: 20%; margin-right: 10px;}
+    .edit_client_detail .box-content-5 { width: 18%;margin-right: 10px;}
+    .edit_client_detail .edit_client.m-header-search__wrapper { width: auto;}
+    .edit_client_detail .box-content-6 {width: 20%;}
+    .edit_client_detail .box-content-1 { width: 7%;}
+    .add_new_services .box-content-5 { width: 18%; margin-right: 73px;}
+    .add_new_services .box-content-6 { width: 22%; margin-right: 73px;}
+    .add_new_services .box-content-4 { width: 34.6%; padding-top: 0; margin-bottom: 31px;}
+    .edit_client.m-header-search__wrapper { width: 100%;}
+    .client_manegment_Table.m-portlet .m-portlet__head .m-portlet__head-caption { display: block;padding: 10px 0;}
+    .Client_Management.m-header-search__wrapper {width: 100%;justify-content: flex-start !important;}
+    .client_manegment_Table .m-header-search__form {height: 66px;margin-top: 0px;}
+    .client_manegment_Table .add_new_client_btn { margin: 15px 0;}
+    .hca_management_view_allocate_client .box-content-12.box-content { padding-top: 0px !important; width: 271px;padding-bottom: 0px !important;}
+    .hca_management_view_allocate_client .box-content-2.box-content { width: 260px;}
+    .hca_management_view_allocate_client .box-content-3.box-content { width: 187px;}
+    .hca_management_view_allocate_client .box-content-9.box-content { width: 244px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-10.box-content { width: 218px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-13.box-content { width: 14%; padding: 0;}
+    .hca_management_view_allocate_client .box-content-14.box-content { width: 35%; padding-top: 0px;}
+}
+@media (max-width: 1530px){
+    .admin_user_group .m-portlet .m-portlet__head .m-portlet__head-caption{display: inline-block; padding: 20px 0;}
+    .Client_Management.m-header-search__wrapper { display: block;}
+    .CT__Management .m-header-search__form {width: 54.9%;}
+    .add_new_client.add_new_services .box-content-5 {width: 27%; margin-right: 73px;}
+    .add_new_client.add_new_services .box-content-6 { width: 28%; margin-right: 73px;}
+    .edit_client.m-header-search__wrapper { width: 100%;}
+    .client_manegment_Table .m-header-search__form {height: 105px;margin-top: 0px;}
+    .hca_management_view_allocate_client .box-content-2.box-content {
+        width: 217px;
+    }.hca_management_view_allocate_client .box-content-7.box-content {
+        width: 214px;
+    }
+
+}
+@media (max-width: 1420px){
+    .box-content-12 { width: 185px;}
+    .box-content-11 { width: 134px;}
+    .box-content-16 { width: 225px;}
+    .hca_management_view_allocate_client .box-content-12.box-content { padding-top: 0px !important; width: 271px;padding-bottom: 0px !important;}
+    .hca_management_view_allocate_client .box-content-2.box-content {width: 201px;}
+    .hca_management_view_allocate_client .box-content-3.box-content {width: 226px;}
+    .hca_management_view_allocate_client .box-content-9.box-content {width: 244px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-10.box-content {width: 203px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-13.box-content {width: 14%; padding: 0;}
+    .hca_management_view_allocate_client .box-content-14.box-content {width: 35%; padding-top: 0px;}
+    .hca_management_view_allocate_client .box-content-7.box-content {width: 201px;}
+    .hca_management_view_allocate_client .box-content-8.box-content {width: 248px; padding-top: 0;}
+    .hca_management_view_allocate_client span.detail-content_link{ padding-left: 31px;}
+}
+@media (max-width: 1366px){
+    .m-header-search__wrapper {width: 52%;}
+    .client_manegment_Table .m-header-search__form { padding: 15px 0;}
+    .Client_Management.m-header-search__wrapper {display: inline-table; padding-bottom: 0;}
+    .Client_Management.m-header-search__wrapper .filter {width: 291px; margin-bottom: 20px;}
+    .Client_Management.m-header-search__wrapper .search { margin-right: 20px; width: 282px;}
+    .add_new_client_btn { display: inline;}
+    .CT__Management .m-header-search__form {width: 65%;}
+    .CT__Management .m-header-search__form { width: 100%;margin: 0 0 14px 0;}
+    .group_info_2 { width: 100%; padding-top: 20px;}
+    .edit_client_detail .box-content-1 { width: 9%;}
+    .edit_client_detail .box-content-2 {width: 22%}
+    .edit_client_detail .box-content-6 { width: 21%;}
+    .edit_client_detail .box-content-4 { width: 29%;}
+    .edit_client_detail .box-content-5 { width: 25%;}
+    .add_new_client.add_new_services .box-content-5 {width: 26%; margin-right: 73px;}
+    .add_new_client.add_new_services .box-content-6 { width: 42%; margin-right: 73px;}
+    .add_new_client.add_new_services .box-content-4 { width: 50%;}
+    .client_manegment_Table .m-header-search__form {height: 139px;margin-top: 0px;}
+    .box-content-3 { width: 220px;}
+    .hca_management_view_allocate_client .box-content-6.box-content { width: 204px;}
+    .hca_management_view_allocate_client .box-content-1.box-content { width: 23%;}
+    .hca_management_view_allocate_client .box-content-7.box-content { width: 218px;}
+    .hca_management_view_allocate_client .box-content-9.box-content { width: 201px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-11.box-content { width: 247px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-10.box-content { width: 216px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-13.box-content { width: 19%; padding-left: 12.5px;}
+    .hca_management_view_allocate_client .box-content-15.box-content {width: 32%;padding-top: 0px;}
+    .hca_management_view_allocate_client .box-content-14.box-content {width: 44%; padding-top: 0px;}
+
+}
+
+@media (max-width: 1199px){
+    .up_arrow{top: 12px; right: 19px;}
+    .down_arrow {bottom: 15px;right: 19px;}
+    .m-header-search__wrapper {width: 69%;}
+    .up_arrow{top: 12px; right: 89px;}
+    .down_arrow {bottom: 15px; right: 89px;}
+    .add_new_client_btn { display: block;}
+    .edit_client_detail .box-content-6 { width: 27%;}
+    .edit_client_detail .box-content-4 { width: 36%;}
+    .edit_client_detail .box-content-2 { width: 28%;}
+    .edit_client_detail .box-content-3 {width: 24%;}
+    .edit_client_detail .box-content-5 {width: 33%;}
+    .add_new_services .box-content-5 { width: 37%;margin-right: 73px;}
+    .add_new_services .box-content-6 { width: 38%;margin-right: 73px;}
+    .add_new_services .box-content-4 { width: 37%; padding-top: 0; margin-bottom: 31px;}
+    .add_new_client.add_new_services .box-content-5 { width: 46%; margin-right: 20px;}
+    .add_new_client.add_new_services .box-content-6 { width: 46%; margin-right: 20px;}
+    .add_new_client.add_new_services .box-content-4 {width: 46%; margin-right: 44px;}
+    .box-content-1, .box-content-2, .box-content-3 ,  .box-content-5, .box-content-6, .box-content-7 ,.box-content-9,
+    .box-content-10, .box-content-11, .box-content-13, .box-content-14, .box-content-15,.box-content-18,.box-content-19{ width: 22.22%;}
+    .box-content-4, .box-content-8  ,.box-content-12,.box-content-16,.box-content-17{ width: 33.33%;}
+    .add_new_services .edit_client .add_btn{width: auto;float: left;}
+    .client_manegment_Table .m-header-search__form {height: 185px;margin-top: 0px;}
+    .hca_management_view_allocate_client .box-content-15.box-content { width: 38%; padding-top: 0px;}
+    .hca_management_view_allocate_client .box-content-8.box-content { width: 219px; padding-top: 0;}
+    .hca_management_view_allocate_client .box-content-12.box-content { width: 222px;}
+    .hca_management_view_allocate_client .box-content-15.box-content { width: 44%;}
+
+
+
+
+}
+
+
+@media only screen and (max-width:1085px) and (min-width: 1025px)  {
+    .box-content-14 ,.box-content-15,.box-content-19{width: 25%;}
+
+}
+@media (max-width: 1024px) {
+    .top_box .box_main_content:nth-child(3n+3){border-right: 0px solid #ffffff !important;}
+    .m-header-search__wrapper { width: 58%;}
+    .edit_client_detail .box-content-2 {width: 29%;}
+    .edit_client_detail .box-content-1 { width: 24%;}
+    .edit_client_detail .box-content-2 { width: 36%;}
+    .edit_client_detail .box-content-6 {width: 36%;}
+    .edit_client_detail .box-content-3 {width: 35%;}
+    .edit_client_detail .box-content-4 { width: 55%;}
+    .edit_client_detail .box-content-5 {width: 50%;}
+    .edit_client_detail .box-content-1,.edit_client_detail .box-content-2, .edit_client_detail .box-content-3,.edit_client_detail .box-content-4,.edit_client_detail .box-content-5{ width: 100% !important;}
+    .edit_client_detail.edit_client.m-header-search__wrapper { width: auto !important;}
+    .add_new_client.add_new_services .box-content-6 { width: 100%; margin-right: 18px;}
+    .add_new_services .edit_client.m-header-search__wrapper { width: 100%;}
+    .add_new_services .box-content-5 {width: 100%; margin-right: 0;}
+    .add_new_services .box-content-6 { width: 100%; margin-right: 0;}
+    .add_new_services .box-content-4 {width: 100%; padding-top: 0; margin-bottom: 31px;}
+    .add_new_client_btn { display: block; margin-top: 20px;}
+    .row.m-0.box-content.edit_client_detail .box-content-6 { width: 100% !important;}
+
+
+
+
+}
+
+@media (max-width: 991px){
+    .m-header-search__wrapper { width: 59%;}
+    .client_manegment_Table .m-widget11 .table thead tr>td:first-child, .client_manegment_Table .m-widget11 .table tbody tr>td:first-child{width: 10%;}
+    .add_new_client .box-content-6 {width: 100% !important;}
+    .add_new_client.add_new_services .box-content-4 {  margin-right: 15px;}
+
+}
+
+@media (max-width: 876px){
+    .dashboard_table .m-header-search__wrapper .filter{width: 272px;}
+    /*    .m-header-search__wrapper{width: 80%;display: inline-flex;}*/
+    .CT__Management.m-portlet .m-portlet__head{padding: 0 25px 100px;}
+    .CT_Management.m-header-search__wrapper{width: 100%; display: block;}
+    .CT__Management .filter { width: 100%;}
+    .CT_Management.m-header-search__wrapper .search {width: 100%; margin-top: 10px;} 
+    .CT_Management .add_new_CT_btn { display: block;width: 100%; margin-top: 20px;}
+    .hca_management_view_allocate_client .box-content-1.box-content { width: 26%;}
+    .hca_management_view_allocate_client .box-content-13.box-content { width: 26%;padding-left: 12.5px;}
+}
+
+@media (max-width: 825px){
+    .box-content-14 ,.box-content-15,.box-content-19{width: 25%;}
+    .hca_management_view_allocate_client .box-content-8.box-content {width: 210px;}
+    .hca_management_view_allocate_client .box-content-1.box-content {width: 50%;}
+    .hca_management_view_allocate_client .box-content-13.box-content {width: 28%;}
+
+}
+
+@media (max-width: 767px){
+    .m-header-search__wrapper {width: 80%;}
+    .m-subheader.breadcrumb_sad .m-subheader__title.m-subheader__title--separator{display: inline-block;}
+    .add_new_client_btn { margin-top: 22px;}
+    .row.m-0.dashboard { margin: auto 7px 0 25px !important;}
+    .top_box .box_main_content{ border-right: 20px solid #ffffff;width: 50% ! important;}
+    .top_box .box_main_content:nth-child(3n+3) { border-right: 20px solid #ffffff !important;}   
+    .dashboard_table .m-header-search__wrapper .filter {width: 310px; display: inline-flex;margin-top: 10px; margin-left: 0px;}
+    .client_manegment_Table .m-header-search__form {height: 296px;margin-top: 0px;}
+    .col-sm-12{max-width: 50%;}
+    .Client_Management.m-header-search__wrapper .filter {width: 100%;margin-bottom: 20px;}
+    .Client_Management.m-header-search__wrapper .search {margin-right: 20px; width: 98.6%;}
+    .CT__Management.m-portlet .m-portlet__head {padding: 0 25px 120px;}
+    .admin_user_group .m-portlet .m-portlet__head .m-portlet__head-caption {display:inline-block !important;padding: 20px 0;}
+    .box-content-1, .box-content-2, .box-content-3 ,  .box-content-5, .box-content-6, .box-content-7 ,.box-content-9,
+    .box-content-10, .box-content-11, .box-content-13, .box-content-14, .box-content-15,.box-content-18,.box-content-19,
+    .box-content-4, .box-content-8  ,.box-content-12,.box-content-16,.box-content-17{ width: 33.33%;}
+    p.detail-content, a.detail-content{word-break: break-all;}
+    .client-tabel .box-content {padding: 15px 7.5px 0 7.5px;}
+    .client_mamangement_view.m-portlet__head-caption { display: block !important; padding: 20px 0;}
+    .client_mamangement_view.m-portlet-button {  float: left;margin-bottom: 10px;}
+    .client_detail_style .m-portlet-button {display: block; float: left;}
+    .m-portlet .client_detail_style  .m-portlet__head .m-portlet__head-caption{display: block;vertical-align: middle; text-align: left; padding: 21px 0px;}
+    .hca_management_view_allocate_client .box-content-2.box-content, .box-content-3.box-content, .box-content-4.box-content, .box-content-6.box-content, .box-content-9.box-content, .box-content-11.box-content{ width: 50% !important;}
+    .box-content-13.box-content, .box-content-14.box-content, .box-content-15.box-content{width: 100% !important;}
+    .add_new_client.add_new_services .box-content-5 { width: 100%; margin-right: 20px;}
+    .add_new_client.add_new_services .box-content-4 { width: 100%;}
+}
+@media(max-width: 650px){
+    .box-content-1, .box-content-2, .box-content-3 ,  .box-content-5, .box-content-6, .box-content-7 ,.box-content-9,
+    .box-content-10, .box-content-11, .box-content-13, .box-content-14, .box-content-15,.box-content-18,.box-content-19,
+    .box-content-4, .box-content-8  ,.box-content-12,.box-content-16,.box-content-17{ width:50%;}
+    .nav.nav-pills .nav-link, .nav.nav-tabs .nav-link{font-size: 14px !important;margin-bottom: 10px;}
+    a.nav-link.active.show{border-bottom: 1px solid #dee2e6 !important; border-top: 0; border-left: 0; border-right: 0;}
+    .show_pagintion .col-sm-12 { justify-content: center; max-width: 100%; display: flex;}
+}
+@media(max-width: 575px){
+    .top_box .box_main_content {width: 100% !important;border-right: 20px solid #ffffff;}
+    .top_box .box_main_content:nth-child(2n+2){border-right: 20px solid #ffffff;}
+    .m-subheader.breadcrumb_sad .m-subheader__title.m-subheader__title--separator{display: inline-block;}
+    .add_new_client_btn {display: block; margin-top: 22px;margin-right: 8px;}
+    .dataTables_paginate.paging_simple_numbers { margin-top: 10px;}
+    .Client_Management.m-header-search__wrapper .filter {width: 100%;margin-bottom: 20px;}
+    .Client_Management.m-header-search__wrapper .search { margin-right: 20px; width: 98.6%;}
+    .Client_Management.m-header-search__wrapper { display: block !important;}
+    .admin_user_group .m-portlet__head-caption.admin_user { padding: 14px 0;}
+    .admin_user_group form.m-header-search__form.admin_user_grp { display: block !important;float: left;}
+    .admin_user_group .Admin_user_groups.m-header-search__wrapper { width: auto; vertical-align: middle; margin-bottom: 20px;}
+    .admin_user_group .m-portlet__head { height: 106px; padding: 0 25px; display: inline-block;}
+    .dashboard_table .m-portlet .m-portlet__head .m-portlet__head-caption {display:block;padding: 15px 0 !important;}
+    .show_pagintion .col-sm-12 { justify-content: center; max-width: 100%; display: flex; margin-bottom: 18px;}
+    .All_admin_user .All_admin_use.m-header-search__wrapper { width: auto; margin: 24px 0; display: inline-block;}
+    .edit_client.m-header-search__wrapper { display: inline-block;  padding-bottom: 17px;}
+    .hca_management_view_allocate_client .box-content-2.box-content, .box-content-3.box-content, .box-content-4.box-content,
+    .box-content-6.box-content, .box-content-7.box-content, .box-content-8.box-content, .box-content-9.box-content, .box-content-11.box-content{ width: 100% !important;}
+    .add_new_client.m-header-search__wrapper { float: left; padding-bottom: 15px; display: block;}
+/*    .dashboard_table .m-portlet__head {height: 167px !important;}
+    .dashboard_table form.m-header-search__form.dashboard{width: 100%; display: block;}
+    .dashboard_table .m-header-search__wrapper{width: 100%;}
+    .dashboard_table .m-header-search__wrapper .search{display: block;width: 100%;}
+    .dashboard_table .m-header-search__wrapper .filter { width: 100%; display: block;}*/
+
+}
+    @media(max-width: 475px){
+        .top_box .box_main_content{width: 100% !important; border-right: 0px solid #ffffff !important;}
+        .add_new_client_btn {display: block; margin-top: 20px;}
+        .edit_client_detail .edit_client.m-header-search__wrapper { width: auto;  height: 60px !important;}
+        .box-content-1, .box-content-2, .box-content-3 ,  .box-content-5, .box-content-6, .box-content-7 ,.box-content-9,
+        .box-content-10, .box-content-11, .box-content-13, .box-content-14, .box-content-15,.box-content-18,.box-content-19,
+        .box-content-4, .box-content-8  ,.box-content-12,.box-content-16,.box-content-17{ width:100%;}
+        .client_management_ tran_tabs.nav.nav-pills, .nav.nav-tabs { margin: 0; display: inline-block;}
+        .client_management_ tran_tabs.nav-tabs .nav-item { margin-bottom: 12px;}
+        .nav.nav-pills .nav-item, .nav.nav-tabs .nav-item { margin-left: 0px !important;}
+        hca_management_view_allocate_client .nav.nav-pills, .nav.nav-tabs { margin: 0; display: inline-block;}
+    }
+
+
+    @media (max-width: 414px){
+        .top_box .box_main_content{width: 100% !important;border-right: 0px solid #ffffff !important;}
+        .m-subheader.breadcrumb_sad .m-subheader__title.m-subheader__title--separator{display: inline-block;}
+        .dataTables_length { margin: auto;}
+        .dataTables_paginate.paging_simple_numbers { margin: 17px auto;}
+        .CT_Management.m-header-search__wrapper{width: 100%;display: block;}
+        .CT__Management .filter {width: 100%;margin-bottom: 10px;}
+        .add_new_CT_btn { width: 100%;}
+        .m-subheader.breadcrumb_sad .m-subheader__title.m-subheader__title--separator{border-right: 0;}
+        form.m-header-search__form.admin_user_grp {width: auto; height: 47px;margin-top: 0; display: inline-block; float: left;}
+        .dashboard_table .m-portlet .m-portlet__head .m-portlet__head-caption {display:block;padding: 20px 0;}
+        .group_info_1 { width: 100%;}
+        .add_new_services .box-content-6 {width: 100%;margin-right: 0;}
+        .add_new_services .box-content-5{ width: 100%;margin-right: 0;}
+        .edit_client_detail .box-content-6 { width: 100%;}
+        .add_new_client.edit_client_detail .m-portlet__head { height: 117px;} 
+        .add_new_client.edit_client_detailm-portlet .m-portlet__head .m-portlet__head-caption { display: block; padding: 26px 0;}
+        .add_new_client.m-header-search__wrapper {width: auto;float: left;}
+        .add_new_services .box-content-4 { margin-bottom: 20px;}
+        .m-portlet__body.client_tabs ul.nav.nav-tabs { margin: 0 20px; display: inline-block; border-bottom: 0;}
+        .nav.nav-pills .nav-item, .nav.nav-tabs .nav-item { margin-left: 0px !important;}
+        .m-portlet__head.admin_group_view { padding: 0 25px; display: inline-block; width: 100%;}
+        form.m-header-search__form.admin_user_grp_view{margin-top: 0px;float: left;}
+       .hca_management_view_allocate_client span.detail-content_link { padding-left: 0px; display: block;}
+        
+        
+        
+        
+    }
+
+
+    @media (max-width: 375px){
+        .top_box .box_main_content{border-right: 20px solid #ffffff !important; }
+        .dashboard_table .m-header-search__wrapper .filter{width: 253px;}
+        .show_pagintion{padding: 0;}
+        .CT_Management.m-header-search__wrapper .search {width: 100%; margin-top: 0px;}
+        .CT_Management .add_new_CT_btn{margin-top: 0px;}
+        .edit_client_detail .box-content-6 { width: 100%;}
+        .add_new_services .box-content-5{margin-right: 0;}
+        .add_new_services .box-content-6 {width: 100%;  margin-right: 0px;}
+        .nav.nav-tabs .nav-item { margin-left: 0; margin-bottom: 10px;}
+        .admin_user_group .m-portlet__head { height: 129px;}
+    }
+
+    @media (max-width: 320px){
+        .m-subheader.breadcrumb_sad .m-subheader__title.m-subheader__title--separator{display: inline-block;}
+        .dashboard_table .m-header-search__wrapper .filter {width: 223px;}
+        .dataTables_paginate.paging_simple_numbers li a{width: 21px;}
+        .CT__Management.m-portlet .m-portlet__head {padding: 0 25px 120px;}
+        form.m-header-search__form.All_admin { width: auto; margin: auto;height: 77px; float: left;}
+    }
+

@@ -1,0 +1,122 @@
+img{
+	    max-width: 100%;
+    height: auto;
+}
+.auto_search_check .dropdown.bootstrap-select.form-control.m-bootstrap-select.m_{
+
+
+}
+
+
+.auto_search_check .ms-options-wrap > button{
+    padding: .65rem 1rem;
+    background-color: transparent;
+    color: #575962;
+    border-color: #ebedf2;
+}
+.auto_search_check .ms-options-wrap > button > span{
+	color: #959cb5;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+}
+.auto_search_check .ms-options-wrap > button:focus, .ms-options-wrap > button{
+	    padding: .65rem 1rem;
+    background-color: transparent;
+    color: #575962;
+    border-color: #ebedf2;
+}
+.auto_search_check .ms-options-wrap > button:after{
+content: '';
+    background-image: url(../images/black_down_arrow.png);
+    background-repeat: no-repeat;
+    background-position: 100% 55%;
+    width: 8px;
+    height: 4px;
+    right: 10px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    border: none;
+}
+.auto_search_check .ms-options-wrap > .ms-options{
+    max-height: 250px;
+    border: 0;
+    box-shadow:0 0 15px 1px rgba(69,65,78,.2);
+}
+.auto_search_check .ms-search{
+    padding: 10px 15px;
+}
+.auto_search_check .ms-options-wrap > .ms-options > .ms-search input{
+    padding: 9px 30px;
+    border-color: #ebedf2;
+    color: #575962;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.auto_search_check .ms-options-wrap > .ms-options > .ms-search:after {
+    background-image: url(../images/search_icon.png);
+    background-repeat: no-repeat;
+    height: 20px;
+    content: '';
+    width: 20px;
+    position: absolute;
+    top: 22px;
+    left: 25px;
+    margin-right: 15px;
+}
+.auto_search_check .ms-options-wrap > .ms-options > ul label{
+	padding: 10px 15px;
+}
+
+.auto_search_check .ms-options-wrap > .ms-options > ul input[type="checkbox"]{
+
+    width: 18px;
+    height: 18px;
+    position: relative;
+    top: 3px;
+    text-align: center;
+    left: 0;
+
+}
+.auto_search_check .ms-options-wrap > .ms-options > ul li.selected label{
+	    background: #f4f5f8 !important;
+    border-color: transparent !important;
+}
+.auto_search_check .ms-options-wrap > .ms-options > ul label.focused, .ms-options-wrap > .ms-options > ul label:hover{
+	    background-color: #f4f5f8 !important;
+    border-color: transparent !important;
+}
+
+.clientlist .page-link{
+	border: none;
+
+}
+.dataTables_paginate.paging_simple_numbers .page-item.active .page-link, .dataTables_paginate.paging_simple_numbers .page-link:hover {
+    background-color: #283c5e;
+    color: #fff;
+    height: 29px;
+    width: 29px;
+    border-radius: 5px;
+}
+
+input#police_checkup_file {
+    display: none;
+}
+
+input#training_certi_file {
+    display: none;
+}
+input#other_doc_file {
+    display: none;
+}
+.dc_cp {
+    display: inline-block;
+    width: 88%;
+    float: right;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
